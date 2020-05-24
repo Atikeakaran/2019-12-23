@@ -1,4 +1,4 @@
 # 2019-12-23
 
-js
+Switch-Case, Array_Methods, While-Do ve Do-While
 
