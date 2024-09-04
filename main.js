@@ -1,4 +1,4 @@
-/*  
+
 
 switch (expression){
     case x:
@@ -139,8 +139,7 @@ default:
     console.log(`Aradığınız ürün olan ${sonuc[0]} fiyatı : ${sonuc[1]} tl'dir`);
 }
 
-*/
-/*
+
 
 //ARRAY Methods
 
@@ -319,7 +318,6 @@ console.log(u);
 
 
 
-*/
 
 
 
